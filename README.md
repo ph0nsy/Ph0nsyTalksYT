@@ -4,7 +4,7 @@
       <image src="https://github.com/ph0nsy/Ph0nsyTalksYT/blob/main/assets/GitHub_YT_Banner.png?raw=true"/>
 </a>
 
-<br><br>
+<br>
 
 This repository is dedicated to my hobby YouTube channel ( [@ph0nsy](https://www.youtube.com/@ph0nsy) ), where I explore a variety of topics.I use a JavaScript API for video editing called [MotionCanvas](https://motioncanvas.io) ( crafted by Jacob [@aarthificial](https://github.com/aarthificial) ). 
 

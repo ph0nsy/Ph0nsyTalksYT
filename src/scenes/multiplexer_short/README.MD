@@ -1,14 +1,14 @@
 # Multiplexers
 
-<center>
+<p align="center">
 <a href="https://www.youtube.com/@ph0nsy" style="text-decoration: none; color: white;">
       <image style="width: 50%; border-radius: 10%" src="https://github.com/ph0nsy/Ph0nsyTalksYT/blob/main/src/scenes/multiplexer_short/assets/Multiplexer.png?raw=true"/>
 </a><br>
 Click this image to watch the video!
-</center>
+</p>
 
 ## General Information
-<center>
+<p align="center">
 
 | Data                   | Value            |
 |-----------------------:|:----------------:|
@@ -17,7 +17,7 @@ Click this image to watch the video!
 | *Type*             	 | Short            |
 | *Length*           	 | 30s              |
 | *No. Unique Scenes*    | 1                |
-</center>
+</p>
 
 ## Summary
 

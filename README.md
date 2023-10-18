@@ -1,7 +1,7 @@
 # Ph0nsy YouTube Channel
 
 <a href="https://www.youtube.com/@ph0nsy" style="text-decoration: none; color: white;">
-      <image src="https://github.com/ph0nsy/Ph0nsyTalksYT/tree/assets/GitHub_YT_Banner.png"/>
+      <image src="https://github.com/ph0nsy/Ph0nsyTalksYT/blob/main/assets/GitHub_YT_Banner.png?raw=true"/>
 </a>
 
 <br><br>

@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://www.youtube.com/@ph0nsy" style="text-decoration: none; color: white;">
-      <image style="width: 50%; border-radius: 10%" src="https://github.com/ph0nsy/Ph0nsyTalksYT/blob/main/assets/Github_YT_Logo.png?raw=true"/>
+      <image style="width: 50%" src="https://github.com/ph0nsy/Ph0nsyTalksYT/blob/main/assets/Github_YT_Logo.png?raw=true"/>
 </a><br>
 Click this image to watch the video!
 </p>

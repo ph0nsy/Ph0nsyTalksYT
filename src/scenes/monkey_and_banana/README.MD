@@ -1,4 +1,4 @@
-# Monkey and Banana Problem
+# Monkey & Banana Problem
 
 <p align="center">
 <a href="https://www.youtube.com/@ph0nsy" style="text-decoration: none; color: white;">
@@ -8,16 +8,14 @@ Click this image to watch the video!
 </p>
 
 ## General Information
-<p align="center">
 
 | Data                   | Value            |
 |-----------------------:|:----------------:|
-| *Icon (Theme)*      	 | Processor (CS)   |
+| *Icon*          	 | Processor        |
 | *Publication Date* 	 | dd mon. yy       |
 | *Type*             	 | Video            |
 | *Length*           	 | 6m 30s           |
 | *No. Unique Scenes*    | 5                |
-</p>
 
 ## Summary
 

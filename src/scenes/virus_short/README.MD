@@ -9,16 +9,13 @@ Click this image to watch the video!
 
 ## General Information
 
-<p align="center">
-
 | Video Data             |       Value      |
 |-----------------------:|:----------------:|
-| *Icon (Theme)*      	 |  Processor (CS)  |
+| *Icon*          	 |  Processor       |
 | *Publication Date* 	 |    dd month yy   |
 | *Type*             	 |       Video      |
 | *Length*           	 |      6m 30s      |
 | *No. Scenes*       	 |         1        |
-</p>
 
 ## Summary
 

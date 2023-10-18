@@ -26,7 +26,7 @@ Join me on this journey and feel free make use of this repository.
 
 ## Upcoming Videos
 <pre>
-├── How does a Multiplexer Work?
+├── Multiplexer
 │   └── Code<a href="https://github.com/ph0nsy/Ph0nsyTalksYT/tree/main/src/scenes/multiplexer_short">🔗</a>
 └── Monkey and Banana Problem
     └── Code<a href="https://github.com/ph0nsy/Ph0nsyTalksYT/tree/main/src/scenes/monkey_and_banana">🔗</a>

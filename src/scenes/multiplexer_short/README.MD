@@ -1,4 +1,4 @@
-# Multiplexers
+# Multiplexer
 
 <p align="center">
 <a href="https://www.youtube.com/@ph0nsy" style="text-decoration: none; color: white;">
@@ -9,16 +9,13 @@ Click this image to watch the video!
 
 ## General Information
 
-<p align="center">
-
 | Data                   | Value            |
 |-----------------------:|:----------------:|
-| *Icon (Theme)*      	 | Processor (CS)   |
+| *Icon*          	 | Processor        |
 | *Publication Date* 	 | dd mon. yy       |
 | *Type*             	 | Short            |
 | *Length*           	 | 30s              |
 | *No. Unique Scenes*    | 1                |
-</p>
 
 ## Summary
 

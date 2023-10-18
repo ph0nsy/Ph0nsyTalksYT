@@ -1,12 +1,8 @@
 # Ph0nsy YouTube Channel
 
-<p style="font-variant: small-caps; font-size:60px; text-align:center">welcome everyone!</p>
+[![Youtube Banner](.\assets\GitHub_YT_Banner.png)](https://www.youtube.com/@ph0nsy)
 
-<a href="https://www.youtube.com/@ph0nsy" style="text-decoration: none; color: white;">
-      <image src=".\assets\GitHub_YT_Banner.png"/>
-</a>
-
-<br>
+<br><br>
 
 This repository is dedicated to my hobby YouTube channel ( [@ph0nsy](https://www.youtube.com/@ph0nsy) ), where I explore a variety of topics.I use a JavaScript API for video editing called [MotionCanvas](https://motioncanvas.io) ( crafted by Jacob [@aarthificial](https://github.com/aarthificial) ). 
 

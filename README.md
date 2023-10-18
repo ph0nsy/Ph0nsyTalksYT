@@ -16,7 +16,7 @@ Join me on this journey and feel free make use of this repository.
 ## Uploaded Videos
 <pre>
 ├── Channel Trailer
-│   ├── Code<a href="https://github.com/ph0nsy/Ph0nsyTalksYT/tree/main/src/scenes/">🔗</a>
+│   ├── Code<a href="https://github.com/ph0nsy/Ph0nsyTalksYT/tree/main/src/scenes/channel_trailer">🔗</a>
 │   └── Video<a href="https://www.youtube.com/@ph0nsy">🔗</a>
 ├── Is a Virus Alive?
 │   ├── Code<a href="https://github.com/ph0nsy/Ph0nsyTalksYT/tree/main/src/scenes/virus_short">🔗</a>

@@ -1,4 +1,4 @@
-# Is a Virus Alive?
+# Channel Trailer
 
 <p align="center">
 <a href="https://www.youtube.com/@ph0nsy" style="text-decoration: none; color: white;">

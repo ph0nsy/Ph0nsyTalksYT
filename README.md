@@ -6,7 +6,7 @@
 
 <br>
 
-This repository is dedicated to my hobby YouTube channel ( [@ph0nsy](https://www.youtube.com/@ph0nsy) ), where I explore a variety of topics.I use a JavaScript API for video editing called [MotionCanvas](https://motioncanvas.io) ( crafted by Jacob [@aarthificial](https://github.com/aarthificial) ). 
+This repository is dedicated to my hobby YouTube channel ( [@ph0nsy](https://www.youtube.com/@ph0nsy) ), where I explore a variety of topics.I use a TypeScript API for video editing called [MotionCanvas](https://motioncanvas.io) ( crafted by Jacob [@aarthificial](https://github.com/aarthificial) ). 
 
 This repository serves as a home for the video content of my channel. Whether you're interested in the videos I've already released or what's coming up, you'll find the source code here, ready to serve as reference for your MotionCanvas projects. 
 

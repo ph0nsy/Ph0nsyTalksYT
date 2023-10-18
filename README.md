@@ -1,6 +1,8 @@
 # Ph0nsy YouTube Channel
 
-[![Youtube Banner](.\assets\GitHub_YT_Banner.png)](https://www.youtube.com/@ph0nsy)
+<a href="https://www.youtube.com/@ph0nsy" style="text-decoration: none; color: white;">
+      <image src="https://github.com/ph0nsy/Ph0nsyTalksYT/tree/assets/GitHub_YT_Banner.png"/>
+</a>
 
 <br><br>
 
